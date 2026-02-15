@@ -3,6 +3,6 @@
   "description": "Repository IPTV prêt à utiliser",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/TONUSER/iptv-repo/main/plugins.json"
+    "https://raw.githubusercontent.com/planèteorange/iptv-repo/main/plugins.json"
   ]
 }
