@@ -1,0 +1,12 @@
+[
+  {
+    "name": "IPTV M3U Avancé",
+    "internalName": "iptvplugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/TONUSER/iptv-repo/main/IPTVPlugin.cs3",
+    "apiVersion": 1,
+    "authors": ["TonNom"],
+    "description": "Plugin IPTV prêt à utiliser sans compilation",
+    "language": "fr"
+  }
+]
